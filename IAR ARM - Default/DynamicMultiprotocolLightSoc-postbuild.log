@@ -1,0 +1,6 @@
+INFO:root:Creation of 32 bit srec file:  "C:\PROGRA~2\IARSYS~1\EMBEDD~1.5\arm/bin/ielftool.exe" "DynamicMultiprotocolLightSoc.out" --srec --srec-s3only "DynamicMultiprotocolLightSoc.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "DynamicMultiprotocolLightSoc.gbl" --app "DynamicMultiprotocolLightSoc.s37" --device EFR32MG12P332F1024GL125
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file:  "C:\PROGRA~2\IARSYS~1\EMBEDD~1.5\arm/bin/ielftool.exe" "DynamicMultiprotocolLightSoc.out" --srec --srec-s3only "DynamicMultiprotocolLightSoc.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "DynamicMultiprotocolLightSoc.gbl" --app "DynamicMultiprotocolLightSoc.s37" --device EFR32MG12P332F1024GL125
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
